@@ -1,9 +1,9 @@
 {
   "list" : [
     {
-      id: 1,
+      "id": 1,
       "name" : "a",
-      "email" : a@a.com
+      "email" : "a@a.com"
     }
   ]
 }
